@@ -16,7 +16,7 @@ I have skills in Microsoft powerplatform, Laravel. In addition, I am an avid rea
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=EoBrad&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EoBrad&theme=material-palenight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eoBraad&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EoBrad&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=EoBrad&icon=2&color=6)](https://visitcount.itsvg.in)
